@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Keeu0WHHx+bN2LDxU/Ze+BfufvAygYxCwpSk5YHS6qDbUw2P4yZgz3/+tES9appXiDAsWwrec3dAWLtzYRzdfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mikeb\\Documents\\GitHub\\PalLoader\\PalMake\\PalMake\\PalMake.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mikeb\\.nuget\\packages\\magick.net-q16-anycpu\\13.1.3\\magick.net-q16-anycpu.13.1.3.nupkg.sha512",
+    "C:\\Users\\mikeb\\.nuget\\packages\\magick.net.core\\13.1.3\\magick.net.core.13.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
